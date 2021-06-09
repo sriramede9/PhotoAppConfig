@@ -1,0 +1,7 @@
+gateway.ip=192.168.2.56
+
+token.secret=secret-somerandomtokensecrect
+
+login.url.path=/users/login
+
+test.flag=Coming-from-photo-Cloud
